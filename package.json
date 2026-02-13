@@ -1,0 +1,14 @@
+{
+  "name": "bot-vip-vendas",
+  "version": "1.0.0",
+  "description": "Bot de vendas VIP com vídeo e planos",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0",
+    "mercadopago": "^1.5.17"
+  }
+}
